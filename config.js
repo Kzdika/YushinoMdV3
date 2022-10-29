@@ -77,7 +77,7 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/rhandrqz_''
+global.sig = 'https://instagram.com/rhandrqz_'
 global.sgh = 'https://github.com/hyuura-official' //github
 global.sgc = 'https://chat.whatsapp.com/ECmDXCJBCFEEtr3J2RvtTg' //group whatsapp
 global.sdc = '-' //discord
